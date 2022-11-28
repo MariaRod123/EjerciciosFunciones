@@ -5,8 +5,8 @@ public class TotalFarmacia {
         public static Float Pago_total(float subtotal, float total){
 
             if(subtotal>0 &&  subtotal <= 500){
-                float descuento=0.00f;
-                total = subtotal - (subtotal * descuento) ;
+                //en este caso no aplica descuento
+                total = subtotal;
                 System.out.println("Total a pagar: " + total);
             }else if(subtotal >= 501 && subtotal <= 1000 ){
                 float descuento=0.05f;
