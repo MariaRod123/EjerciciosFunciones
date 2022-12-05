@@ -5,7 +5,6 @@ public class PotenciaEnesima {
     public static Integer Potencia(int base, int exponente) {
         int potencia = 1;
 
-
             if (exponente == 0) {
                 potencia=1;
 
