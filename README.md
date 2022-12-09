@@ -1,5 +1,9 @@
 # EjerciciosFunciones
 
+<p align="left">
+   <img src="https://img.shields.io/badge/ESTADO-EN%CORRECCION-red">
+   </p>
+
 #PASO1: Escribe un programa en JAVA tal que dados como datos 270 númeroa enteros introducidos por teclado, obtenga la suma de los números
 impares y el promedio de los números pares.
 datos: NUM1, NUM2, ..., NUM270  donde NUMi es una variable de tipo entero que representa el entero i que se ingresa (1<= i <=270)
