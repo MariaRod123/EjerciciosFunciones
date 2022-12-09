@@ -1,7 +1,7 @@
 # EjerciciosFunciones
 
 <p align="left">
-   <img src="https://img.shields.io/badge/ESTADO-EN%CORRECCION-red">
+   <img src="https://img.shields.io/badge/ESTADO-EN%CORRECCION-green">
    </p>
 
 #PASO1: Escribe un programa en JAVA tal que dados como datos 270 númeroa enteros introducidos por teclado, obtenga la suma de los números
