@@ -1,8 +1,5 @@
 # EjerciciosFunciones
-
-<p align="left">
-   <img src="https://img.shields.io/badge/ESTADO-EN%CORRECCION-green">
-   </p>
+Resolución de ejercicios
 
 #PASO1: Escribe un programa en JAVA tal que dados como datos 270 númeroa enteros introducidos por teclado, obtenga la suma de los números
 impares y el promedio de los números pares.
@@ -37,11 +34,11 @@ El programa debe hacer: guardar los nuevos sueldos en el arreglo, calcular la n�
 #PASO9: Programa que calcule el mayor y menor de N números
 
 #PASO10: Programa que indique el total a pagar en una farmacia si el total a pagar es:
-0-500 ---> 0% desc.
-501-1000 ---> 5% desc.
-1001-7000 ---> 11% desc.
-7001-15000 ---> 18% desc.
-15001 en adelante ---> 25% desc.
+- 0-500 ---> 0% desc.
+- 501-1000 ---> 5% desc.
+- 1001-7000 ---> 11% desc.
+- 7001-15000 ---> 18% desc.
+- 15001 en adelante ---> 25% desc.
 
 
 #PASO11: Programa que pida el sueldo de N trabajadores e imprima el que tiene mayor sueldo
