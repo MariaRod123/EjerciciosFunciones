@@ -1,5 +1,5 @@
 # EjerciciosFunciones
-Resolución de ejercicios
+Letra de los ejercicios
 
 #PASO1: Escribe un programa en JAVA tal que dados como datos 270 númeroa enteros introducidos por teclado, obtenga la suma de los números
 impares y el promedio de los números pares.
