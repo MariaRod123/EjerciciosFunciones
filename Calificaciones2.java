@@ -21,13 +21,7 @@ public class Calificaciones2 {
         for(int i=19; i>=0; i--) {
             System.out.println("Alumno " + i + " su promedio es: " + promedio[i]);
         }
-
-
     }
-
-
-
-
 }
 
 
