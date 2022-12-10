@@ -10,7 +10,7 @@ public class Paso11 {
         Scanner entrada=new Scanner(System.in);
         n=entrada.nextInt();
 
-        for(int i=1;i<=n;++i)
+        for(int i=1; i<=n; i++)
         {
             System.out.print("Ingrese número de empleado: ");
             empleado=entrada.nextInt();
